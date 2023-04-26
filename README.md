@@ -15,7 +15,7 @@ This application assists designers generate and save custom palettes of 5 colors
 
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
-1. fork this repository https://github.com/SethBurns/coloRandom
+1. fork this repository https://github.com/jalbe0076/coloRandom-m1-group
 2. Clone down your new, forked repo using the generated SSH link in the terminal
 3. cd into the repository
 4. Open it in your text editor
